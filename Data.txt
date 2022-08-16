@@ -1,0 +1,7 @@
+Rainbow School student's Data
+Name			Class
+Student1		1
+Student2		2
+Student3		3
+Student4		4
+Student5		5
